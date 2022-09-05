@@ -1,0 +1,2 @@
+#!/bin/bash
+ifind . -name "*.js" -delete
